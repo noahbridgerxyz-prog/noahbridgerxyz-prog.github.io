@@ -1,5 +1,4 @@
 
 Noah Bridger
 
-jekyll new
 
